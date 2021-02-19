@@ -1,2 +1,2 @@
 # password-generator-gui-app
-Password generator app using Tkinter
+Simple assword generator app using Tkinter
